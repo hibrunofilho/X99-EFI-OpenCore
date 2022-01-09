@@ -1,7 +1,7 @@
 # X99 on macOS (Hackintosh)
 EFI optimized for almost all X99
 
-**Current OpenCore: 0.7.7
+**Current OpenCore:** 0.7.7
 
 ## What works on this EFI??
 
