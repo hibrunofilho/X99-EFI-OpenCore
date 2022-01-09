@@ -16,4 +16,4 @@ EFI optimized for almost all X99
 
 [Maldon](Olarila.com) for Olarila ISO Images and EFI Base
 
-[Hackintosh Brazil Group] for for the helps
+[Hackintosh Brasil Group](https://t.me/hackintoshbr) for for the helps
