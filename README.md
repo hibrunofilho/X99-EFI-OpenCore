@@ -12,4 +12,8 @@ EFI optimized for almost all X99
 
 ## Credits
 
-[Acidanthera](https://github.com/acidanthera)
+[Acidanthera](https://github.com/acidanthera) for OpenCore and other kexts
+
+[Maldon](Olarila.com) for Olarila ISO Images and EFI Base
+
+[Hackintosh Brazil Group] for for the helps
