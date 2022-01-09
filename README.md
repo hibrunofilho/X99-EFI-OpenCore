@@ -1,13 +1,15 @@
 # X99-EFI-OpenCore
 EFI optimized for almost all X99
 
-## What was done in this EFI?
+## What works on this EFI??
+
+- Audio
+- All inputs from your video card (except vga as it doesn't support macOS)
+- AppleSMC chip emulation (thanks to VirtualSMC)
+- all iService (iCloud, iMessage, Facetime etc)
+- all System updates (SIP Enable)
 
 
+## Credits
 
-- Updated OpenCore to 0.7.7 (pre-release)
-- Updated ALL Kexts
-- Added Pike R XCPM (Valid for versions 10.15.7 to 12.1)
-- Added Pike R Kernel Patches. (Valid for versions 10.15.7 to 12.1)
-- Set Kext Innie.kext to recognize all internal disks correctly
-- Mapping the USB ports to my motherboard (Huananzhi F8) was done
+{Acidanthera} (https://github.com/acidanthera)
