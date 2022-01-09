@@ -16,7 +16,7 @@ EFI optimized for almost all X99
 
 [Acidanthera](https://github.com/acidanthera) for OpenCore and other kexts
 
-[Maldon](Olarila.com) for Olarila Vanilla Images and EFI Base
+[Maldon](Olarila.com) for ACPI Patch, Olarila Vanilla Images and EFI Base
 
 [Hackintosh Brasil Group](https://t.me/hackintoshbr) for for the helps
 
