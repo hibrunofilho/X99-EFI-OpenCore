@@ -12,4 +12,4 @@ EFI optimized for almost all X99
 
 ## Credits
 
-[Acidanthera] (https://github.com/acidanthera)
+[Acidanthera](https://github.com/acidanthera)
