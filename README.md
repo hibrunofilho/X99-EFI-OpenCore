@@ -24,3 +24,8 @@ EFI optimized for almost all X99
 ## Download
  
 - For download [Click Here](https://github.com/hibrunofilho/X99-EFI-OpenCore/releases) 
+
+
+## Warning
+
+**I am not responsible for any problem and/or damage to equipment or loss of files. Always back up everything before any changes to your computer**
